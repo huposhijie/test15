@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "dev": "tailwindcss -i ./src/input.css -o ./build/output.css --watch"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.2.2",
